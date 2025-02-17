@@ -11,7 +11,7 @@ public class Targil8 {
                 if(sum < 10){System.out.print(" ");};
                 System.out.print(sum);
             }
-        System.out.println();
+        System.out.println("|");
         }
     }
 }
